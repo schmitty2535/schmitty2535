@@ -1,19 +1,30 @@
-### Hi there 👋
 
+
+
+```javascript
+const Maxwell = {
+  code: [Javascript, HTML, CSS],
+  tools: [Node, Vuejs],
+  interests: [HomeAutomation, Electronics, PWAs, IndustrialAutomation, InformationAutomation]
+  roles: {
+    student: {
+      school: "Lawrence Technological University",
+      degree: "Bachelor of Science in Industrial Engineering"
+    },
+    employee: {
+      company: "MADE Manufacturing",
+      position: "Industrial Engineer I"
+    }
+  }
+}
+```
 <!--
-**schmitty2535/schmitty2535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Aspire+to+inspire+before+you+expire)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -21,26 +32,6 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Aspire+to+inspire+before+you+expire)](https://git.io/typing-svg)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
@@ -61,3 +52,4 @@ const thai = {
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
+-->
