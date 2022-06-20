@@ -1,11 +1,17 @@
 
-
-
 ```javascript
 const Maxwell = {
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Vuejs],
-  interests: [HomeAutomation, Electronics, PWAs, IndustrialAutomation, InformationAutomation]
+  languages: ["Javascript", "HTML", "CSS", "SQL"],
+  technologies: {
+    backEnd: {
+        js: ["Node", "Express"],
+    },
+    frontEnd: ["Vuejs"],
+    databases: ["mariadb", "MySql", "Firebase"],
+    misc: ["Socket.IO"],
+    developmentTools: ["Webstorm", "Datagrip", "MySQL Workbench", "MobaXTerm", "Putty", "NPM"]
+  },
+  interests: ["Home Automation", "Electronics", "PWAs", "Industrial Automation", "Information Automation", "Raspberry Pi"],
   roles: {
     student: {
       school: "Lawrence Technological University",
@@ -18,6 +24,11 @@ const Maxwell = {
   }
 }
 ```
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=schmitty2535&theme=Javascript-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmitty2535&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Aspire+to+inspire+before+you+expire)](https://git.io/typing-svg)
 
