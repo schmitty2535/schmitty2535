@@ -7,20 +7,27 @@ const Maxwell = {
         js: ["Node", "Express"],
     },
     frontEnd: ["Vuejs"],
-    databases: ["mariadb", "MySql", "Firebase"],
+    databases: ["mariadb", "MySQL", "Firebase"],
     misc: ["Socket.IO"],
     developmentTools: ["Webstorm", "Datagrip", "MySQL Workbench", "MobaXTerm", "Putty", "NPM"]
   },
-  interests: ["Home Automation", "Electronics", "PWAs", "Industrial Automation", "Information Automation", "Raspberry Pi"],
+  interests: ["Home Automation", "Electronics", "PWAs", "Industrial Automation", "Information Automation", "Raspberry Pi", "Process Improvement"],
   roles: {
     student: {
       school: "Lawrence Technological University",
       degree: "Bachelor of Science in Industrial Engineering"
     },
-    employee: {
-      company: "MADE Manufacturing",
-      position: "Industrial Engineer I"
-    }
+    employment: [{
+        company: "Mara Technologies USA, INC.",
+        position: "Industrial Process Engineer",
+        currentlyEmployeed: true
+      },{
+        company: "Manufacture and Design Electronics ('made'), LLC",
+        position: "Industrial Engineer I",
+        currentlyEmployeed: false,
+        lengthOfEmploymentInYears: 4.2
+      }
+    ]
   }
 }
 ```
