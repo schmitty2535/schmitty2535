@@ -9,7 +9,7 @@ const Maxwell = {
     frontEnd: ["Vuejs"],
     databases: ["mariadb", "MySQL", "Firebase"],
     misc: ["Socket.IO"],
-    developmentTools: ["Webstorm", "Datagrip", "MySQL Workbench", "MobaXTerm", "Putty", "NPM"]
+    developmentTools: ["Webstorm", "Datagrip", "MySQL Workbench", "MobaXTerm", "Putty", "NPM", "DB Forge Studio"]
   },
   interests: ["Home Automation", "Electronics", "PWAs", "Industrial Automation", "Information Automation", "Raspberry Pi", "Process Improvement"],
   roles: {
@@ -19,8 +19,12 @@ const Maxwell = {
     },
     employment: [{
         company: "Mara Technologies USA, INC.",
-        position: "Industrial Process Engineer",
+        position: "Lead Engineer",
         currentlyEmployeed: true
+      },{
+        company: "Mara Technologies USA, INC.",
+        position: "Industrial Process Engineer",
+        currentlyEmployeed: false
       },{
         company: "Manufacture and Design Electronics ('made'), LLC",
         position: "Industrial Engineer I",
